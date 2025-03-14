@@ -39,11 +39,10 @@ features:
 
   - title: "Submit a Manuscript"
     image: "/images/submit.png"
-    content: "We invite researchers to submit manuscripts contributing to the discussion on supply chains as complex systems. Topics of interest include, but are not limited to, sustainability, resilience, efficiency, network models, and data-driven approaches. Selected manuscripts will be considered for inclusion in a special issue or white paper draft from the satellite."
+    content: "We invite researchers to submit manuscripts contributing to the discussion on supply chains as complex systems. Topics of interest include, but are not limited to, sustainability, resilience, efficiency, network models, and data-driven approaches."
     bulletpoints:
       - "Submission Deadline: 01.06.2025"
       - "Accepted topics: Sustainability, resilience, efficiency, data, and network models."
-      - "Publication opportunities in special issues or a collaborative white paper."
       - "Authors will be invited to present at the satellite event."
     button:
       enable: True
