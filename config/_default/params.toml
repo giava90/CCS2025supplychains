@@ -63,10 +63,10 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
 keywords = ["Boilerplate", "Hugo"]
-description = "Supply chains: A complex network perspective"
+description = "Supply chains | Complexity"
 author = "Giacomo Vaccario"
 twitter = "giacomovaccario"
-image = "images/og-image.png"
+image = "images/supplychains.png"
 
 
 # site verifications
