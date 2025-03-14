@@ -50,10 +50,10 @@ features:
       link: "#submit"
 
   - title: "Satellite Committee"
-    image: "/images/committee.png"
+    image: "/images/us.png"
     content: "Our committee comprises experts in supply chains, network science, agent-based modelling."
     bulletpoints:
-      - "Dr. Giacomo Vaccario (ETH Zurich)"
+      - "[**Dr. Giacomo Vaccario** (ETH Zurich)](https://www.giacomovaccario.com/)"
       - "Dr. Giona Casiraghi (ETH Zurich)"
       - "Dr. Ambra Amico (Singapore-MIT Alliance)"
       - "Dr. Luca Verginer (ETH Zurich)"
