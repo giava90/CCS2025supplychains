@@ -52,7 +52,7 @@ features:
 
   - title: "Satellite Committee"
     image: "/images/committee.png"
-    content: "Our committee comprises experts in network science, operations research, and supply chain management."
+    content: "Our committee comprises experts in supply chains, network science, agent-based modelling."
     bulletpoints:
       - "Dr. Giacomo Vaccario (ETH Zurich)"
       - "Dr. Giona Casiraghi (ETH Zurich)"
