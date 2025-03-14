@@ -20,7 +20,7 @@ features:
       - "Discuss methodological advancements in network science and agent-based models."
       - "Identify challenges and future directions in supply chain research."
     button:
-      enable: True
+      enable: False
       label: "Learn More"
       link: "#description"
   
@@ -33,7 +33,7 @@ features:
       - "Session 3: Resilience and Efficiency of Supply Chains"
       - "Final Workshop: Interactive discussion to map research gaps and draft a white paper."
     button:
-      enable: True
+      enable: False
       label: "View Full Agenda"
       link: "#agenda"
 
@@ -41,11 +41,12 @@ features:
     image: "/images/submit.png"
     content: "We invite researchers to submit manuscripts contributing to the discussion on supply chains as complex systems. Topics of interest include, but are not limited to, sustainability, resilience, efficiency, network models, and data-driven approaches."
     bulletpoints:
+      - "Submission Open: 17.03.2025"
       - "Submission Deadline: 01.06.2025"
       - "Accepted topics: Sustainability, resilience, efficiency, data, and network models."
       - "Authors will be invited to present at the satellite event."
     button:
-      enable: True
+      enable: False
       label: "Submit Now"
       link: "#submit"
 

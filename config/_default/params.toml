@@ -38,7 +38,7 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "send us an email"
+label = "send us a message"
 link = "contact"
 
 # search
