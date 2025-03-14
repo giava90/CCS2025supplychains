@@ -11,7 +11,7 @@ banner:
 
 # Features
 features:
-  - title: "Supply Chains: A Complex System Perspective"
+  - title: "A Complex System Perspective"
     image: "/images/supplychains.png"
     content: Traditionally, scholars of supply chain management and operations logistics have conceptualized distribution systems as linear chains. Using this perspective implies that supply chains in principle can be fully designed by a single manufacturer. However, nowadays, this conventional approach falls short. While firms could choose their partners, they have limited control over the business relations of those partners. In other words, the connections within the distribution system extend beyond the control of a single entity, and the resulting structure strongly deviates from a simple chain. Thus, today’s distribution systems should be better viewed as self-organized systems emerging from the interactions of several firms. These self-organized systems can be suitably represented as complex networks. Network science has provided tools to move beyond the oversimplified chain perspective. Yet, research in this direction has been limited by a lack of comprehensive data. The satellite aims to bring together researchers from network science, operations research, and supply chain management to discuss new models and methods to analyze supply chains."
     bulletpoints:
