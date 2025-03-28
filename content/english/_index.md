@@ -44,7 +44,7 @@ features:
       - "Submission Open: 17.03.2025"
       - "Submission Deadline: 01.06.2025"
       - "Accepted topics: Sustainability, resilience, efficiency, data, and network models."
-      - "Send us an extended abstract - same format as for the main conference ([here for more info](https://ccs25.cssociety.org/abstract-2/))"
+      - "Send us an extended abstract: format as for the main conference ([**here for more info**](https://ccs25.cssociety.org/abstract-2/))"
     button:
       enable: True
       label: "Submit Now"
