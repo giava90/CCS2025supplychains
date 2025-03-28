@@ -44,11 +44,11 @@ features:
       - "Submission Open: 17.03.2025"
       - "Submission Deadline: 01.06.2025"
       - "Accepted topics: Sustainability, resilience, efficiency, data, and network models."
-      - "Authors will be invited to present at the satellite event."
+      - "Send us an extended abstract - same format as for the main conference ([here for more info](https://ccs25.cssociety.org/abstract-2/))"
     button:
-      enable: False
+      enable: True
       label: "Submit Now"
-      link: "#submit"
+      link: "mailto:gvaccario@ethz.ch"
 
   - title: "Satellite Committee"
     image: "/images/us.png"
