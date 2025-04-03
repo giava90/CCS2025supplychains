@@ -25,7 +25,7 @@ features:
       link: "#description"
   
   - title: "Agenda"
-    image: "/images/agenda.png"
+    image: "/images/agenda1.png"
     content: "The satellite will consist of three thematic sessions, each featuring an invited speaker and a contributed talk. The event will conclude with a workshop synthesizing key insights and outlining future research directions."
     bulletpoints:
       - "Session 1: Sustainability in Supply Chains"
