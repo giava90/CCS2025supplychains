@@ -6,10 +6,15 @@ name = "Home"
 url = "/"
 weight = 1
 
-# [[main]]
-# name = "Organizers"
-# url = "/about"
-# weight = 2
+[[main]]
+name = "Satellite Description"
+url = "/description"
+weight = 2
+
+[[main]]
+name = "Organizers"
+url = "/organizers"
+weight = 3
 
 # footer menu
 # [[footer]]

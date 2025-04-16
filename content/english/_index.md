@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "Supply Chains: A Complex System Perspective"
-  content: "Networks to distribute goods, from raw materials to food and medicines, are the backbone of a functioning economy. Recent events, such as the Covid-19 pandemic and geopolitical conflicts, have highlighted the fragility of global supply chains. This satellite aims to explore supply chains from a complex systems perspective, addressing sustainability, resilience, and efficiency challenges. Join us at **[CCS 2025](https://ccs25.cssociety.org/)** to discuss new models and methods to analyze supply chains."
+  title: "Supply Chains @ CCS2025 | September 3 | Siena, Italy"
+  content: Networks to distribute goods, from raw materials to food and medicines, are the backbone of a functioning economy. Recent events, such as the Covid-19 pandemic and geopolitical conflicts, have highlighted the fragility of global supply chains. This satellite aims to explore supply chains from a complex systems perspective, addressing sustainability, resilience, and efficiency challenges. Join us at **[CCS 2025](https://ccs25.cssociety.org/)** to discuss new models and methods to analyze supply chains.
   image: "/images/supplychains.png"
   button:
     enable: False
@@ -45,6 +45,7 @@ features:
       - "Submission Deadline: 01.06.2025"
       - "Accepted topics: Sustainability, resilience, efficiency, data, and network models."
       - "Send us an extended abstract: format as for the main conference ([**here for more info**](https://ccs25.cssociety.org/abstract-2/))"
+      - "Accepted contributions will be presented at the satellite as contributed talks."
     button:
       enable: True
       label: "Submit Now"

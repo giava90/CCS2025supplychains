@@ -10,12 +10,20 @@
       width="120"
       src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=128&pg&d=identicon" />
   {{ end }}
-  <h4 class="mb-3">
+  <!-- <h4 class="mb-3">
     <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  </h4> -->
+  <h4 class="mb-3">
+    {{ $website:= .Params.website }}
+    <a href={{$website}} target="_blank" rel="noopener nofollow">
+      {{ .Title }}
+      </a>
   </h4>
   <p class="mb-4">
     {{ .Summary }}
   </p>
+  <br>
+  <!-- add some space between the text and the icons -->
   <ul class="social-icons">
     {{ range .Params.social }}
       <li>
