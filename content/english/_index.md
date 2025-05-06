@@ -39,13 +39,12 @@ features:
 
   - title: "Submit a Manuscript"
     image: "/images/submit.png"
-    content: "We invite researchers to submit manuscripts contributing to the discussion on supply chains as complex systems. Topics of interest include, but are not limited to, sustainability, resilience, efficiency, network models, and data-driven approaches."
+    content: "Submit an extended abstract contributing to the discussion on supply chains as complex systems. Topics of interest include, but are not limited to, sustainability, resilience, efficiency, network models, and data-driven approaches."
     bulletpoints:
-      - "Submission Open: 17.03.2025"
-      - "Submission Deadline: 01.06.2025"
       - "Accepted topics: Sustainability, resilience, efficiency, data, and network models."
-      - "Send us an extended abstract: format as for the main conference ([**here for more info**](https://ccs25.cssociety.org/abstract-2/))"
-      - "Accepted contributions will be presented at the satellite as contributed talks."
+      - "**Submission Deadline: 01.06.2025**"
+      - "**Send us an extended abstract**: format as for the main conference ([**here for more info**](https://ccs25.cssociety.org/abstract-2/))"
+      - "Accepted contributions will be presented at the satellite as **contributed or lighting talks**."
     button:
       enable: True
       label: "Submit Now"
