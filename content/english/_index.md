@@ -51,12 +51,13 @@ features:
       link: "mailto:gvaccario@ethz.ch"
 
   - title: "Satellite Committee"
-    image: "/images/us.png"
+    image: "/images/merged.png"
     content: "Our committee comprises experts in supply chains, network science, agent-based modelling."
     bulletpoints:
       - "[**Dr. Giacomo Vaccario** (ETH Zurich)](https://www.giacomovaccario.com/)"
       - "Dr. Giona Casiraghi (ETH Zurich)"
       - "Dr. Ambra Amico (Singapore-MIT Alliance)"
+      - "Johannes Stangl (CSH Vienna)"
       - "Dr. Luca Verginer (ETH Zurich)"
     button:
       enable: False
