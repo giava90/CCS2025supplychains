@@ -58,7 +58,7 @@ We advance this research by proposing a satellite that addresses key challenges 
 
 The satellite will consist of three thematic sessions, each featuring an invited speaker and a contributed talk. The event will conclude with a workshop synthesizing key insights and outlining future research directions. [Download the agenda (PDF)](/documents/agenda.pdf)
 The satellite will start at 09:45 and end at 12:15 on Wednesday, September 3rd, 2025, in Room 16 of the conference venue.
-In the afternoon, we will have a workshop in the room of the Biblioteca Storica to foster networking and informal discussions.
+In the afternoon from 15:00 to 16:30, we will have a workshop in the room of the Biblioteca Storica to foster networking and informal discussions.
 {{< notice "WHEN: 09:45 - 12:15 on Wednesday, September 3rd, 2025" >}}
 {{< /notice >}}
 {{< notice "WHERE: ROOM 16 on the conference venue" >}}
