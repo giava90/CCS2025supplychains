@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "Supply Chains @ CCS2025 | September 3 | Siena, Italy"
+  title: "Supply Chains @ CCS2025 \n\n Wednesday 3rd of September \n\n 09:45 – 12:15 \n\n  ROOM 16 of the Conference Venue"
   content: Networks to distribute goods, from raw materials to food and medicines, are the backbone of a functioning economy. Recent events, such as the Covid-19 pandemic and geopolitical conflicts, have highlighted the fragility of global supply chains. This satellite aims to explore supply chains from a complex systems perspective, addressing sustainability, resilience, and efficiency challenges. Join us at **[CCS 2025](https://ccs25.cssociety.org/)** to discuss new models and methods to analyze supply chains.
   image: "/images/supplychains.png"
   button:
@@ -28,27 +28,28 @@ features:
     image: "/images/agenda1.jpg"
     content: "The satellite will consist of three thematic sessions, each featuring an invited speaker and a contributed talk. The event will conclude with a workshop synthesizing key insights and outlining future research directions."
     bulletpoints:
-      - "Session 1: Sustainability in Supply Chains"
-      - "Session 2: Distribution of Essential, Renewable, and Rare Earth Goods"
-      - "Session 3: Resilience and Efficiency of Supply Chains"
+      - "Sustainability and its unintended consequences"
+      - "Robustness, Adaption and Resilience of Supply Chains"
+      - "Quantifying Supply Chains"
       - "Final Workshop: Interactive discussion to map research gaps and draft a white paper."
     button:
-      enable: False
-      label: "View Full Agenda"
-      link: "#agenda"
-
-  - title: "Submit a Manuscript"
-    image: "/images/submit.png"
-    content: "Submit an extended abstract contributing to the discussion on supply chains as complex systems. Topics of interest include, but are not limited to, sustainability, resilience, efficiency, network models, and data-driven approaches."
-    bulletpoints:
-      - "Accepted topics: Sustainability, resilience, efficiency, data, and network models."
-      - "**Submission Deadline: 29.06.2025**"
-      - "**Send us an extended abstract**: format as for the main conference ([**here for more info**](https://ccs25.cssociety.org/abstract-2/))"
-      - "Accepted contributions will be presented at the satellite as **contributed or lighting talks**."
-    button:
       enable: True
-      label: "Submit Now"
-      link: "mailto:gvaccario@ethz.ch"
+      label: "View Full Agenda"
+      link: "documents/agenda.pdf"
+      download: True
+
+  # - title: "Submit a Manuscript"
+  #   image: "/images/submit.png"
+  #   content: "Submit an extended abstract contributing to the discussion on supply chains as complex systems. Topics of interest include, but are not limited to, sustainability, resilience, efficiency, network models, and data-driven approaches."
+  #   bulletpoints:
+  #     - "Accepted topics: Sustainability, resilience, efficiency, data, and network models."
+  #     - "**Submission Deadline: 29.06.2025**"
+  #     - "**Send us an extended abstract**: format as for the main conference ([**here for more info**](https://ccs25.cssociety.org/abstract-2/))"
+  #     - "Accepted contributions will be presented at the satellite as **contributed or lighting talks**."
+  #   button:
+  #     enable: True
+  #     label: "Submit Now"
+  #     link: "mailto:gvaccario@ethz.ch"
 
   - title: "Satellite Committee"
     image: "/images/merged.png"

@@ -8,14 +8,14 @@ description: "This is meta description"
 draft: false
 ---
 
-{{< toc >}}
+<!-- {{< toc >}} -->
 
 # Supply Chains as Complex Systems
 Networks to distribute goods, from raw materials to food and medicines, are the backbone of a functioning economy. They are shaped by several supply relations connecting manufacturers, distributors, and final buyers worldwide. The aggregation of these relations give rise to intricate supply chains that grow more complex every year [1, 2]. This has recently revealed some significant downsides. The Covid-19 pandemic and the conflict in Ukraine have highlighted that even local shortages can be amplified through the supply linkages and ultimately affect millions of people [3–6]. As supply chains grow more complex, they also raise pressing sustainability concerns, regarding environmental degradation, poor labour conditions, and red-flag social issues [7-10]. These events have called for a deeper understanding of supply chain structures and how these structures affect their resilience and sustainability [11].
 
 Traditionally, scholars of supply chain management and operations logistics have conceptualized distribution systems as linear chains. Using this perspective implies that supply chains in principle can be fully designed by a single manufacturer [12–14]. However, nowadays, this conventional approach falls short. While firms could choose their partners, they have limited control over the business relations of those partners [15]. In other words, the connections within the distribution system extend beyond the control of a single entity, and the resulting structure strongly deviates from a simple chain. Thus, today’s distribution systems should be better viewed as self-organized systems emerging from the interactions of several firms [16, 17]. As recently highlighted [15, 18–20], these self-organized systems can be suitably represented as complex networks. Network science has provided tools to move beyond the oversimplified chain perspective. Yet, research in this direction has been limited by a lack of comprehensive data. Given this limitation, previous research has been constrained to small-scale case studies [21, 22] or simulations without empirical validation [13, 20–25]. Network models validated on large-scale distribution systems are still missing [15].
 
-{{< slider dir="images/gallery" class="max-w-[600px] ml-0" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< slider dir="images/gallery/" class="max-w-[600px] ml-0" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 
 
 # Satellite Overview
@@ -56,15 +56,16 @@ We advance this research by proposing a satellite that addresses key challenges 
 
 # Do you want to join us?
 
-We invite researchers to submit manuscripts contributing to the discussion on supply chains as complex systems. Topics of interest include, but are not limited to, sustainability, resilience, efficiency, network models, and data-driven approaches.
-{{< notice "Submission Deadline: 01.06.2025" >}}
+The satellite will consist of three thematic sessions, each featuring an invited speaker and a contributed talk. The event will conclude with a workshop synthesizing key insights and outlining future research directions. [Download the agenda (PDF)](/documents/agenda.pdf)
+The satellite will start at 09:45 and end at 12:15 on Wednesday, September 3rd, 2025, in Room 16 of the conference venue.
+In the afternoon, we will have a workshop in the room of the Biblioteca Storica to foster networking and informal discussions.
+{{< notice "WHEN: 09:45 - 12:15 on Wednesday, September 3rd, 2025" >}}
+{{< /notice >}}
+{{< notice "WHERE: ROOM 16 on the conference venue" >}}
 {{< /notice >}}
 
-- Accepted topics: Sustainability, resilience, efficiency, data, and network models.
-- Send us an extended abstract: format as for the main conference ([**here for more info**](https://ccs25.cssociety.org/abstract-2/))
-- Accepted contributions will be presented at the satellite as contributed talks.
 
-{{< button label="Submit Now" link="mailto:gvaccario@ethz.ch" style="solid" >}}
+{{< button label="Any questions? Send us a message" link="mailto:gvaccario@ethz.ch" style="solid" >}}
 <!-- 
  - **Sustainability**
     - Environmental: Impact of distribution networks on carbon footprints, energy consumption, and resource depletion.
@@ -115,251 +116,3 @@ We invite researchers to submit manuscripts contributing to the discussion on su
 24. Chakraborty T, Chauhan SS, Ouhimmou M (2020) Mitigating supply disruption with a backup supplier under uncertain demand: competition vs. cooperation. Int J Prod Res 58(12):3618–3649
 25. Fahimnia B, Jabbarzadeh A, Sabouhi F (2017) Sustainability analysis under disruption risks. (WORKING PAPER)
 26. Lipmanowicz, H., & McCandless, K. (2013). The Surprising Power of Liberating Structures: Simple Rules to Unleash a Culture of Innovation. Liberating Structures Press.
-
-<!-- 
-Here is an example of headings. You can use this heading by the following markdown rules. For example: use `#` for heading 1 and use `######` for heading 6.
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
-
-<hr>
-
-### Emphasis
-
-The emphasis, aka italics, with _asterisks_ or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or **underscores**.
-
-The combined emphasis with **asterisks and _underscores_**.
-
-Strike through uses two tildes. ~~Scratch this.~~
-
-<hr>
-
-### Button
-
-{{< button label="Button" link="/" style="solid" >}}
-
-<hr>
-
-### Link
-
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links.
-<http://www.example.com> or <http://www.example.com> and sometimes
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.themefisher.com
-[1]: https://gethugothemes.com
-[link text itself]: https://www.getjekyllthemes.com
-
-<hr>
-
-### Paragraph
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
-
-<hr>
-
-### Ordered List
-
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
-<hr>
-
-### Unordered List
-
-- List item
-- List item
-- List item
-- List item
-- List item
-
-<hr>
-
-### Notice
-
-{{< notice "note" >}}
-This is a simple note.
-{{< /notice >}}
-
-{{< notice "tip" >}}
-This is a simple tip.
-{{< /notice >}}
-
-{{< notice "info" >}}
-This is a simple info.
-{{< /notice >}}
-
-{{< notice "warning" >}}
-This is a simple warning.
-{{< /notice >}}
-
-<hr>
-
-### Tab
-
-{{< tabs >}}
-{{< tab "Tab 1" >}}
-
-#### Hey There, I am a tab
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-{{< /tab >}}
-
-{{< tab "Tab 2" >}}
-
-#### I wanna talk about the assassination attempt
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-{{< /tab >}}
-
-{{< tab "Tab 3" >}}
-
-#### We know you’re dealing in stolen ore
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
-
-{{< /tab >}}
-{{< /tabs >}}
-
-<hr>
-
-### Accordions
-
-{{< accordion "Why should you need to do this?" >}}
-
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur
-
-{{< /accordion >}}
-
-{{< accordion "How can I adjust Horizontal centering" >}}
-
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur
-
-{{< /accordion >}}
-
-{{< accordion "Should you use Negative margin?" >}}
-
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur adipisicing elit.
-- Lorem ipsum dolor sit amet consectetur
-
-{{< /accordion >}}
-
-<hr>
-
-### Code and Syntax Highlighting
-
-This is an `Inline code` sample.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
-
-```python
-s = "Python syntax highlighting"
-print s
-```
-
-```c  { linenos=true }
-#include <stdio.h>
-
-int main(void)
-{
-    printf("hello, world\n");
-    return 0;
-}
-```
-
-```mermaid
-flowchart TD
-    A[Start] --> B{Is it?}
-    B -- Yes --> C[OK]
-    C --> D[Rethink]
-    D --> B
-    B -- No ----> E[End]
-```
-
-<hr>
-
-### Blockquote
-
-> Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once.
-
-<hr>
-
-### Tables
-
-| Tables        |      Are      |  Cool |
-| ------------- | :-----------: | ----: |
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      |   centered    |   $12 |
-| zebra stripes |   are neat    |    $1 |
-
-<hr>
-
-### Image
-
-{{< image src="images/image-placeholder.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
-
-<hr>
-
-### Gallery
-
-{{< gallery dir="images/gallery" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
-
-<hr>
-
-### Slider
-
-{{< slider dir="images/gallery" class="max-w-[600px] ml-0" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
-
-<hr>
-
-### Youtube video
-
-{{< youtube ResipmZmpDU >}}
-
-<hr>
-
-### Custom video
-
-{{< video src="https://www.w3schools.com/html/mov_bbb.mp4" width="100%" height="auto" autoplay="false" loop="false" muted="false" controls="true" class="rounded-lg" >}} -->
